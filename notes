@@ -18,5 +18,10 @@ DOING
     - Git config --global user.name “” 
     - Git config --global user.name “email”
 
-
+GIT Notes
+ -Main/Release
+  - Dev
+    - ceph
+    -  es
+Merge to ceph > dev > main/release
 
