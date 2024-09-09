@@ -1,21 +1,22 @@
  NEED
-Debian ISO - Headless
-Vmware/Vbox - Headless - 2 core / 4gb mem / 50-100gb
-Clone repos
-Setup SSH
-Login to Git/Ssh keys 
-https://github.com/jam-lab13/project-theseus/blob/main/infrastructure-build/01-basics
-VScodium
+- Debian ISO - Headless
+- Vmware/Vbox - Headless - 2 core / 4gb mem / 50-100gb
+- Clone repos
+- Setup SSH
+- Login to Git/Ssh keys 
+    - https://github.com/jam-lab13/project-theseus/blob/main/infrastructure-build/01-basics
+- VScodium
 
 DOING
-Wsl for linux under windows
-Debian has like nothing
-Have to add sudo and sudoers file
-01-basics
-SSH keys for github
-Profile > SSH and GPG Keys > Add you laptop in key-gen
-Git config
-Git config --global user.name “”
-Git config --global user.name “email”
+- Wsl for linux under windows
+- Debian has like nothing
+   - Have to add sudo and sudoers file
+   - 01-basics
+- SSH keys for github
+  - Profile > SSH and GPG Keys > Add you laptop in key-gen
+  - Git config
+    - Git config --global user.name “” 
+    - Git config --global user.name “email”
+
 
 
